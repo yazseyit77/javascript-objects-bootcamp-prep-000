@@ -1,5 +1,5 @@
 var playlist = {
-  Arianna: "Thank you next",
-  Rihanna: "Diamonds",
-  Becky G: "Mad Love";
+  arianna: "Thank you next",
+  rihanna: "Diamonds",
+  beckyG: "Mad Love";
 }
